@@ -22,3 +22,9 @@
 #CollapsingNav.in {
   width: 220px;
 }
+
+body {
+  background: url(../images/typerwriter.jpeg) no-repeat;
+  background-size: cover;
+    /* background-color: black; */
+}
